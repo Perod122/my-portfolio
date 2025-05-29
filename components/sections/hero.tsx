@@ -30,7 +30,7 @@ export default function Hero() {
       >
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-teal-200 drop-shadow-[0_0_15px_rgba(45,212,191,0.5)]">
-            Jasper Eldrich Montalban
+            Jasper Eldrich B. Montalban
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-400 font-light">Full Stack Developer</p>
