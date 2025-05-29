@@ -28,8 +28,8 @@ export default function Hero() {
           mounted && "opacity-100 translate-y-0",
         )}
       >
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-teal-200 drop-shadow-[0_0_15px_rgba(45,212,191,0.5)]">
+        <h1 className="text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight">
+          <span className="whitespace-nowrap text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-teal-200 drop-shadow-[0_0_15px_rgba(45,212,191,0.5)]">
             Jasper Eldrich B. Montalban
           </span>
         </h1>
