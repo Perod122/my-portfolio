@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import Image from "next/image"
-import { Code, Briefcase, GraduationCap, MapPin, ComputerIcon } from "lucide-react"
+import { Code, GraduationCap, MapPin, ComputerIcon } from "lucide-react"
 import SectionHeading from "@/components/ui/section-heading"
 import { cn } from "@/lib/utils"
 
@@ -71,10 +71,10 @@ export default function About() {
         >
           <div className="bg-gray-900/50 backdrop-blur-sm p-6 rounded-2xl border border-gray-800/50 shadow-lg">
             <p className="text-gray-300 leading-relaxed">
-             I'm a passionate Software Developer with a strong foundation in problem-solving and algorithm design. I enjoy building responsive, user-friendly applications and writing clean, efficient code.
+             I&apos;m a passionate Software Developer with a strong foundation in problem-solving and algorithm design. I enjoy building responsive, user-friendly applications and writing clean, efficient code.
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
-              My journey in tech is driven by curiosity and a desire to build solutions that make a difference. I'm
+              My journey in tech is driven by curiosity and a desire to build solutions that make a difference. I&apos;m
               constantly learning and adapting to new technologies to stay at the forefront of innovation.
             </p>
           </div>
