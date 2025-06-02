@@ -24,7 +24,7 @@ export default function Projects() {
     {
       title: "Shopperod – E-Commerce Website",
       description: "Built with PERN stack",
-      date: "Jun 2024",
+      date: "May 2024",
       techStack: ["PostgreSQL", "Express", "React", "Node", "Tailwind CSS", "JavaScript", "Framer-motion", "ShadCN"],
       demoUrl: "https://shopperod.onrender.com/",
       codeUrl: "https://github.com/Perod122/Shopperod",
@@ -34,7 +34,7 @@ export default function Projects() {
       description: "Built a Sinking Fund management system to help streamline payment tracking and improve record-keeping efficiency",
       date: "Jun 2024",
       techStack: ["PostgreSQL", "NextJS", "React", "Node", "Tailwind CSS", "TypeScript", "Framer-motion", "ShadCN"],
-      demoUrl: "https://github.com/Perod122/SinkIt",
+      demoUrl: "https://sink-it.vercel.app/",
       codeUrl: "https://github.com/Perod122/SinkIt",
     },
     {
